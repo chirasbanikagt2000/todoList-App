@@ -18,3 +18,9 @@ START THE APPLICATION:
 `npm start`
 Runs the app in the development mode.
 Open http://localhost:3000 to view it in your browser.
+
+SCREENSHOT OF THE PROJECT:
+
+![todoApp](https://github.com/chirasbanikagt2000/todoList-App/assets/165468003/e83029e9-29ca-42f9-b504-3a80688ff077)
+
+
